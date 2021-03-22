@@ -14,7 +14,7 @@ eyeballs to stare at for long periods of time. This variation just shades it a b
 
 If you would like the darker background but prefer to stick with the main theme, you can instead override the
 background colour in your per-user `settings.json`:
-```jsonc
+``` jsonc
 {
     // …
     "workbench.colorCustomizations": {
@@ -28,5 +28,4 @@ background colour in your per-user `settings.json`:
 
 ## Screenshot
 
-coming soon
-<!-- ![screenshot](https://github.com/kbriggs/vscode-faeriefloss/blob/master/assets/faeriefloss.png?raw=true) -->
+![screenshot](https://github.com/kbriggs/vscode-faeriefloss/blob/main/assets/faeriefloss.png?raw=true)
