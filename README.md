@@ -19,7 +19,7 @@ background colour in your per-user `settings.json`:
     // …
     "workbench.colorCustomizations": {
         "[fairyfloss]": {
-            "editor.background": "#3f3848"
+            "editor.background": "#322A3A"
         }
     },
     // …
